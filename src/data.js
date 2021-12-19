@@ -1,7 +1,7 @@
 export const sliderItems = [
     {
         id: 1,
-        img: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13719118/2021/3/3/af74bcc3-40aa-42c8-8f79-cdeab57e51c71614752823017-Athena-Turquoise-Blue-top-with-power-shoulder-sleeve-detail--5.jpg",
+        img: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2280915/2017/12/5/11512454408591-SASSAFRAS-Women-Pink-Solid-Shirt-Style-Top-1481512454408474-1.jpg",
         title: "SUMMER SALE",
         desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
         bg: "f5fafd",
@@ -9,7 +9,7 @@ export const sliderItems = [
     },
     {
         id: 2,
-        img: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12834502/2020/11/26/e50bd870-573d-4f6f-9ebc-938bda01edc31606382198225WomenBlackMultiColourPrintedKurti1.jpg",
+        img: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11780968/2020/4/3/456b5475-dedf-459b-ae82-a839c20bd8101585905051410HIGHLANDERMenGreenWhiteSlimFitPrintedCasualShirt6.jpg",
         title: "AUTUMN COLLECTION",
         desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
         bg: "fcf1ed",
@@ -34,13 +34,13 @@ export const categories = [
     },
     {
         id: 2,
-        img: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14550590/2021/12/14/0c7a0af6-bdfd-4167-8ba9-ea3ec4ae30611639482739235RoadsterMenGreenRegularFitSolidCasualShirtJacketsNauticaWome3.jpg",
+        img: "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7e%2F3c%2F7e3c07257a6fc99ba18d51444152a15b61531b29.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
         title: "WOMEN LOVE",
         cat: "woman"
     },
     {
         id: 3,
-        img: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14473496/2021/11/25/6426a4c6-1ce0-4a2e-9ced-da4c79eef97a1637825537349-HERENOW-Women-Jackets-5411637825536985-1.jpg",
+        img: "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F35%2Fd2%2F35d2da0170b44423756503cccf6ece4c2fa84434.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
         title: "LIGHT JACKETS",
         cat: "jacket"
     },
